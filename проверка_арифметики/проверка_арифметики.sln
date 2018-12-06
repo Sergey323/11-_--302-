@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "проверка_арифметики", "проверка_арифметики\проверка_арифметики.csproj", "{A4009B8C-7430-4206-95DE-AAAB7A3EF84B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest1", "UnitTest1\UnitTest1.csproj", "{D2CC770D-560F-420E-8B4E-171120E5D527}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A4009B8C-7430-4206-95DE-AAAB7A3EF84B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4009B8C-7430-4206-95DE-AAAB7A3EF84B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4009B8C-7430-4206-95DE-AAAB7A3EF84B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CC770D-560F-420E-8B4E-171120E5D527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CC770D-560F-420E-8B4E-171120E5D527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CC770D-560F-420E-8B4E-171120E5D527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CC770D-560F-420E-8B4E-171120E5D527}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
